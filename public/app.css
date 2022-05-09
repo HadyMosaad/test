@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+}
+
+.product-img {
+  width: 50px;
+}
+.product-img-view {
+  width: 120px;
+}
+.boxed {
+  width: 300px;
+  border: 15px solid green;
+  padding: 20px;
+  margin: 10px;
+  display: inline-block
+}
+.delete-checkbox
+{
+
+}
+}
+
+li {
+}
